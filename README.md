@@ -1,3 +1,4 @@
-# git-oppimispaivakirja
+# Git-versionhallinta - SOF011AS2A-3002 - Hanna-Riikka Happonen 
 
-Tämä on kurssin oppimispäiväkirja.
+Tämä repositorio sisältää Git-versionhallinta -kurssin oppimispäiväkirjat.
+
